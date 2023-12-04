@@ -1,0 +1,120 @@
+<mxfile host="app.diagrams.net" modified="2023-12-04T04:38:11.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Fi9LtNJ9XKtDpz-9O4Sb" version="21.6.6" type="device">
+  <diagram name="Page-1" id="P3TYW1wROHtjvSg_T2in">
+    <mxGraphModel dx="1050" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AWuS6St445G-MTgsJ94P-1" value="Sistem KlinikGo" style="html=1;dashed=0;whiteSpace=wrap;perimeterSpacing=20;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="200" width="215" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.075;entryY=0.347;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AWuS6St445G-MTgsJ94P-2" target="AWuS6St445G-MTgsJ94P-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="115" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-10" value="Data Pendaftaran Pasien" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AWuS6St445G-MTgsJ94P-9">
+          <mxGeometry x="0.0368" y="2" relative="1" as="geometry">
+            <mxPoint x="43" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-31" value="Data Pendaftaran Ulang Pasien" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AWuS6St445G-MTgsJ94P-2" target="AWuS6St445G-MTgsJ94P-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-2" value="Pasien" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="41" y="80" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-20" value="Data &amp;amp; Jadwal Dokter" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.929;entryY=0.747;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.3759" relative="1" as="geometry">
+            <mxPoint x="745" y="481" as="sourcePoint" />
+            <mxPoint x="534.895" y="352.80999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="745" y="353" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-3" value="Dokter" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="720" y="480" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-33" value="Data Pendaftaran Ulang Pasien" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.493;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AWuS6St445G-MTgsJ94P-5" target="AWuS6St445G-MTgsJ94P-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-5" value="Mesin APM" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="490" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-32" value="Data Pendaftaran Ulang Pasien" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.505;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AWuS6St445G-MTgsJ94P-6" target="AWuS6St445G-MTgsJ94P-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-6" value="Loket Registrasi Ulang Online" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="710" y="80" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.078;exitY=0.476;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AWuS6St445G-MTgsJ94P-1" target="AWuS6St445G-MTgsJ94P-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="400" as="sourcePoint" />
+            <mxPoint x="200" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-16" value="Data &amp;amp; Jadwal Dokter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AWuS6St445G-MTgsJ94P-15">
+          <mxGeometry x="-0.3431" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.069;exitY=0.663;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AWuS6St445G-MTgsJ94P-1" target="AWuS6St445G-MTgsJ94P-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="390" as="sourcePoint" />
+            <mxPoint x="280" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="65" y="332" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-18" value="Konfimasi Pendaftaran" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AWuS6St445G-MTgsJ94P-17">
+          <mxGeometry x="-0.5193" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-25" value="Detail Data Pasien" style="endArrow=classic;html=1;rounded=0;exitX=0.925;exitY=0.66;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AWuS6St445G-MTgsJ94P-1">
+          <mxGeometry x="-0.083" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="330" as="sourcePoint" />
+            <mxPoint x="770" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="332" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AWuS6St445G-MTgsJ94P-2" target="AWuS6St445G-MTgsJ94P-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="410" as="sourcePoint" />
+            <mxPoint x="90" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-30" value="Data Pendaftaran Ualng Pasien" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="AWuS6St445G-MTgsJ94P-29">
+          <mxGeometry x="-0.4311" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="98" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.91;exitY=0.565;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AWuS6St445G-MTgsJ94P-1" target="AWuS6St445G-MTgsJ94P-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="300" as="sourcePoint" />
+            <mxPoint x="740" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="795" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWuS6St445G-MTgsJ94P-36" value="Detail Pendaftaran" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AWuS6St445G-MTgsJ94P-35">
+          <mxGeometry x="0.0905" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
